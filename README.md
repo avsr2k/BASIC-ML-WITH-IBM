@@ -1,7 +1,7 @@
 # CLASSICATION-PRACTICE
 
 
-In this notebook we try to practice all the classification algorithms
+In this notebook we try to practice BASIC classification algorithms
 
 WE START OFF WITH:
 1. DATA PREPROCESSING 
